@@ -1,2 +1,2 @@
 # pythonSendEmailHtml
-Just to send emails using python
+Just to send emails using python Jupyter Notebook
